@@ -1,4 +1,4 @@
-![image](https://github.com/emodeth/pokedex/assets/110347611/904f619d-7ff9-4a8f-b611-2fb6a4711f01)<div align='center'><img src="https://github.com/emodeth/pokedex/blob/master/logo.png"/></div>
+<div align='center'><img src="https://github.com/emodeth/pokedex/blob/master/logo.png"/></div>
 
 <h2>About the project</h2>
 
@@ -15,13 +15,9 @@ website features a modern and intuitive design, with a search bar and Pokemon st
 <h2>Screenshots of the Project 📸</h2>
 <br>
 
-<div align='center'>
-  ![image](https://github.com/emodeth/pokedex/assets/110347611/dd1dece6-670d-40ec-9595-4b6d5b563ce3)
-</div>
+![image](https://github.com/emodeth/pokedex/assets/110347611/4e653c33-a485-4f15-bc14-2372b6ea4f3a)
 
 <br><br>
 
-<div align='center'>
-  ![image](https://github.com/emodeth/pokedex/assets/110347611/b583aa21-2cae-4c1d-898e-245535f13e9a)
-</div>
+![image](https://github.com/emodeth/pokedex/assets/110347611/d4fa994b-fa3d-4e0a-9970-282ec0349935)
 
