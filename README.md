@@ -22,7 +22,7 @@ website features a modern and intuitive design, with a search bar and Pokemon st
 <br><br>
 
 <div align='center'>
-  <img src='https://prnt.sc/Jd4f-kt2sWe4'/>
+  <img src='https://prnt.sc/MAls_i4NwBq1'/>
 </div>
 
 
