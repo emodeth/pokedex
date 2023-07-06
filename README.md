@@ -2,7 +2,7 @@
 
 <h2>About the project</h2>
 
-<p>This is a minimalist a Pokedex website built with Vanilla JavaScript and CSS. This
+<p>This is a Pokedex website built with Vanilla JavaScript and CSS. This
 website features a modern and intuitive design, with a search bar and Pokemon stats when you hover a card.</p>
 
 👉 Live Demo: <a target="_blank" href='https://pokedex-app-emodeth.netlify.app/'>Pokedex Demo</a>
