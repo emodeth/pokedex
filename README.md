@@ -2,8 +2,7 @@
 
 <h2>About the project</h2>
 
-<p>This is a Pokedex website built with Vanilla JavaScript and CSS. This
-website features a modern and intuitive design, with a search bar and Pokemon stats when you hover a card.</p>
+<p>Welcome to the Pokédex App! This interactive web application allows you to explore information about 150 different Pokémon. Simply hover over a Pokémon card to view its detailed statistics and information. Whether you're a seasoned Pokémon Trainer or just starting your journey, this app is here to help you learn more about your favorite Pokémon.</p>
 
 👉 Live Demo: <a target="_blank" href='https://pokedex-app-emodeth.netlify.app/'>Pokedex Demo</a>
 
